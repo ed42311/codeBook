@@ -22,16 +22,12 @@ Day 4: Next steps multi -
 time - 1.35
 Now you have this `enum` which seems to be a form building type of function allow you to choose between different states in a way that informs those states.  It is a bridge I think to the next step.
 
-Edward Weymouth [10:36 PM]
+Edward Weymouth
+time - 1.8
 day 6: This was a short stint and some messing with the camera, also slowing down to understand some of the math I’m writing which is simple and elegant…  One thing I like about math, although it has a tendency to oversimplify everything, it sure does get the basic idea.  :slightly_smiling_face:
 
-[10:37 PM]
 a ripple, give it a minute I ramped up the voxel resolution:  https://hidden-dusk-36954.herokuapp.com/fun-graph/
-[10:37 PM]
-1.8
-Sunday, January 14th
 
------ -----
 
 Edward Weymouth
 time - 1.1
@@ -79,3 +75,8 @@ Haiku form ->
           Silver Snake Bites Sand
         Invisible Cuts Steps Through
           The Window, Shattered
+
+
+Day 18:
+time - 1.2
+Setting up the tra
