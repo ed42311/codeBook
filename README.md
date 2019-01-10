@@ -1,2 +1,1 @@
-# codeBook
-hello
+# CodeBook with Resources
