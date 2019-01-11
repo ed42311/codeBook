@@ -1,0 +1,4 @@
+# ~ disables rule
+# MD033 is no inline html
+
+rules "~MD033" 
